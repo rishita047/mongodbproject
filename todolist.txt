@@ -1,0 +1,16 @@
+Download Pymongo driver.
+Importing Pymongo driver in Python program.
+Creating a new database in MongoDB using a Python program.
+Creating a new collection in MongoDB using a Python program.
+Inserting single document at a time in MongoDB collection.
+Inserting multiple documents in MongoDB at a time using Python.
+Finding one document at a time without any condition.
+Finding one document at a time with condition.
+Finding multiple documents at a time without any condition.
+Finding multiple documents at a time with a particular condition.
+Update one document at a time.
+Update multiple documents at a time.
+Delete one document at a time.
+Delete multiple documents at a time.
+Create a complete Employee Management system using Python and MongoDB.
+Create a complete Student Management system using Python and MySQL.
